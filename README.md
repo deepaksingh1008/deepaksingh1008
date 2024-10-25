@@ -28,5 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaksingh1008&show_icons=true&locale=en" alt="deepaksingh1008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksingh1008&" alt="deepaksingh1008" /></p>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
